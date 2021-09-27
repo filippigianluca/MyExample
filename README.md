@@ -6,4 +6,4 @@
 [![Coverage](https://coveralls.io/repos/github/filippigianluca/MyExample.jl/badge.svg?branch=master)](https://coveralls.io/github/filippigianluca/MyExample.jl?branch=master)
 
 
-This is a repository for a linear function
+This is a repository for a linear function 'my_f'
