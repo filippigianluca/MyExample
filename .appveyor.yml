@@ -2,9 +2,12 @@
 environment:
   matrix:
     - julia_version: 1.0
+    - julia_version: 1.1
+    - julia_version: 1.2
     - julia_version: 1.5
     - julia_version: nightly
 platform:
+  - x86
   - x64
 cache:
   - '%USERPROFILE%\.julia\artifacts'
